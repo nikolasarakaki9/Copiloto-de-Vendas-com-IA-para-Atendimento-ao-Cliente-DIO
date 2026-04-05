@@ -235,7 +235,7 @@ Print da resposta gerada pelo ChatGPT
 
 ![prompt](prompt_1.png)
 ![prompt](prompt_2.png)
-![prompt](prompt_2.png)
+![prompt](prompt_3.png)
 
 
 
