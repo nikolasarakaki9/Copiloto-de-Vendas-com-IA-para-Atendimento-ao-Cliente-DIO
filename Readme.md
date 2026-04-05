@@ -144,6 +144,77 @@ Resposta Gerada pelo ChatGpt
 
 
 
+A) Leitura do interesse (resumo rápido)
+
+Cliente quer um computador para trabalho pesado (programação + edição de vídeo) e também rodar jogos leves a intermediários.
+👉 Indica foco em desempenho + multitarefa, não só jogo.
+
+B) Diagnóstico de oportunidade
+
+Classificação: Misto (com forte tendência a High Ticket)
+
+Por quê:
+
+Edição de vídeo exige máquina mais forte (CPU + RAM)
+Programação + multitarefa pede fluidez (16GB+ RAM)
+Jogos citados são leves → não precisa GPU ultra cara
+
+Oportunidade clara:
+👉 Vender PC gamer intermediário bem equilibrado (alto valor percebido sem exagero)
+
+Preciso descobrir:
+
+Orçamento
+Se vai editar vídeo pesado ou básico (1080p ou 4K)
+Se prefere PC fixo ou notebook
+Se já tem monitor/periféricos
+Nível de exigência nos jogos (ultra vs médio)
+C) Perguntas de qualificação (WhatsApp)
+Qual faixa de investimento você pretende colocar nisso?
+Seus vídeos são mais simples (YouTube/1080p) ou algo mais pesado (4K/efeitos)?
+Prefere PC fixo ou precisa de mobilidade (notebook)?
+Você já tem monitor e periféricos ou precisa de tudo?
+Quer rodar os jogos no médio já tá ok ou quer algo mais fluido/alto?
+D) Oferta principal recomendada
+👉 Caminho ideal: PC Gamer Intermediário (equilíbrio total)
+
+💻 O que oferecer:
+
+Ryzen 5 ou i5
+16GB RAM (mínimo)
+SSD rápido (500GB+)
+Placa de vídeo intermediária (tipo RX 6600 / equivalente)
+
+📈 Por que faz sentido:
+
+Aguenta edição de vídeo fluida em 1080p e até 1440p
+Roda todos os jogos citados com sobra
+Excelente para multitarefa (programação + edição + navegador)
+
+🗣️ Como apresentar (copiar e colar):
+“Pra o que você quer, o ideal é um PC equilibrado que rode edição sem travar e ainda segure seus jogos tranquilo — consigo montar uma config bem forte sem exagerar no preço.”
+
+E) Oferta complementar (cross-sell inteligente)
+Memória RAM (upgrade futuro ou já 32GB)
+👉 Pra edição de vídeo mais pesada e multitarefa
+SSD adicional (1TB)
+👉 Pra armazenar projetos de vídeo sem travar
+Mouse gamer preciso
+👉 Ajuda MUITO em produtividade (edição + navegação)
+Teclado mecânico
+👉 Melhor conforto pra programação (digitação longa)
+
+F) Estratégia de ancoragem
+Opção 1 — Bom / Ótimo / Premium
+Bom: roda tudo (16GB + GPU básica)
+Ótimo: ideal pra edição + jogos fluido (melhor custo-benefício)
+Premium: edição pesada + jogos no alto + mais longevidade
+Opção 2 — Custo-benefício vs Performance
+Custo-benefício: roda tudo que você quer sem gastar muito
+Performance: mais potência pra edição + maior vida útil
+🎯 Fechamento (ação)
+
+Me diga a faixa de orçamento e se seus vídeos são mais simples ou pesados, que eu já te monto a configuração EXATA pra fechar essa venda 🔥
 
 
 
