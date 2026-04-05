@@ -231,7 +231,11 @@ Me diga a faixa de orçamento e se seus vídeos são mais simples ou pesados, qu
 
 ---
 
+Print da resposta gerada pelo ChatGPT
+
 ![prompt](prompt_1.png)
+![prompt](prompt_2.png)
+![prompt](prompt_2.png)
 
 
 
