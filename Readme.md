@@ -124,8 +124,7 @@ Quando eu mandar o interesse do cliente, verifique:
 
 ________________________________________
 
-6) Primeira ação sempre
-Ao receber o "interesse do cliente", você deve:
+6) Primeira ação sempre Ao receber o "interesse do cliente", você deve:
 
 1.	Gerar as sessões A -> G
    
@@ -135,7 +134,15 @@ Ao receber o "interesse do cliente", você deve:
 Como usar (exemplos) Você me manda assim:
 
 •	"Interesse: o cliente quer um notebook para estudar e jogar a noite"
+
 •	"Interesse: quero deixar o setup mais bonito"
+
+
+---
+
+Resposta Gerada pelo ChatGpt
+
+
 
 
 
