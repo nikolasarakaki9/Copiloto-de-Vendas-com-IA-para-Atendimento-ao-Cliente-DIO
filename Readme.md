@@ -149,6 +149,8 @@ A) Leitura do interesse (resumo rápido)
 Cliente quer um computador para trabalho pesado (programação + edição de vídeo) e também rodar jogos leves a intermediários.
 👉 Indica foco em desempenho + multitarefa, não só jogo.
 
+---
+
 B) Diagnóstico de oportunidade
 
 Classificação: Misto (com forte tendência a High Ticket)
@@ -169,12 +171,19 @@ Se vai editar vídeo pesado ou básico (1080p ou 4K)
 Se prefere PC fixo ou notebook
 Se já tem monitor/periféricos
 Nível de exigência nos jogos (ultra vs médio)
+
+---
+
 C) Perguntas de qualificação (WhatsApp)
 Qual faixa de investimento você pretende colocar nisso?
 Seus vídeos são mais simples (YouTube/1080p) ou algo mais pesado (4K/efeitos)?
 Prefere PC fixo ou precisa de mobilidade (notebook)?
 Você já tem monitor e periféricos ou precisa de tudo?
 Quer rodar os jogos no médio já tá ok ou quer algo mais fluido/alto?
+
+---
+
+
 D) Oferta principal recomendada
 👉 Caminho ideal: PC Gamer Intermediário (equilíbrio total)
 
@@ -194,6 +203,8 @@ Excelente para multitarefa (programação + edição + navegador)
 🗣️ Como apresentar (copiar e colar):
 “Pra o que você quer, o ideal é um PC equilibrado que rode edição sem travar e ainda segure seus jogos tranquilo — consigo montar uma config bem forte sem exagerar no preço.”
 
+---
+
 E) Oferta complementar (cross-sell inteligente)
 Memória RAM (upgrade futuro ou já 32GB)
 👉 Pra edição de vídeo mais pesada e multitarefa
@@ -203,6 +214,8 @@ Mouse gamer preciso
 👉 Ajuda MUITO em produtividade (edição + navegação)
 Teclado mecânico
 👉 Melhor conforto pra programação (digitação longa)
+
+---
 
 F) Estratégia de ancoragem
 Opção 1 — Bom / Ótimo / Premium
@@ -216,6 +229,6 @@ Performance: mais potência pra edição + maior vida útil
 
 Me diga a faixa de orçamento e se seus vídeos são mais simples ou pesados, que eu já te monto a configuração EXATA pra fechar essa venda 🔥
 
-
+---
 
 
