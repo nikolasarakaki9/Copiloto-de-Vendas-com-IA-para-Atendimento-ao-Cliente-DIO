@@ -231,4 +231,10 @@ Me diga a faixa de orçamento e se seus vídeos são mais simples ou pesados, qu
 
 ---
 
+![prompt](prompt_1.png)
+
+
+
+
+
 
